@@ -1,0 +1,236 @@
+body {
+    background-color: #eae9e4;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/*HEADER*/
+.menu_principal {
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.menu_principal div h1 {
+    float: left;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    font-size: 45px;
+}
+
+.menu_principal div nav {
+    float: right;
+    margin-top: 20px;
+    font-size: 25px;
+    margin-left: 300px;
+}
+
+.menu_principal div nav ul {
+    list-style: none;
+    color: white;
+}
+
+.menu_principal div nav ul li {
+    display: inline-block;
+}
+
+.menu_principal div nav ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 25px;
+    color: #20af94;
+}
+
+.title_div {
+
+}
+
+.title {
+    color: #20af94;
+}
+
+.style_point {
+    color: #d90619;
+}
+
+.menu_div {
+
+}
+
+.img_col {
+    /*width: 120%;
+    height: 120%;*/
+}
+
+/*PRESENTATION ZONE ABOUT*/
+.about {
+    background-color: #243057;
+}
+
+.about_title {
+    background-color: 0;
+    color:#eae9e4;
+}
+
+.titre_about {
+    width: 900px;
+    font-size: 50px;
+    color: #d90619;
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 30px;
+
+}
+
+.titre_about p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 25px;
+}
+
+.texte_about {
+    font-size: 25px;
+    color:#eae9e4;
+    margin-left: 25px;
+}
+
+.texte_about p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.presentation {
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.texte_presentation {
+    margin-left: 50px;
+}
+
+.titre_perso {
+    background-color: #20af94;
+    font-size: 50px;
+    color: #eae9e4;
+    width: 550px;
+}
+
+.titre_perso p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+
+.texte_perso {
+    font-size: 25px;
+    color:#eae9e4;
+}
+
+.texte_perso p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.titre_fav {
+    background-color: #20af94;
+    font-size: 50px;
+    color: #eae9e4;
+    width: 900px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+.titre_fav_all {
+    text-align: center;
+}
+
+.favorite_all {
+    display: flex;
+    text-align: center
+}
+
+.favorite_1 {
+    width: 500px;
+}
+
+.favorite_1 img{
+    border: 1px solid #eae9e4; 
+    border-radius: 15px;
+    padding: 5px; 
+}
+
+.favorite_2 {
+    width: 500px;
+}
+
+.favorite_2 img{
+    border: 1px solid #eae9e4; 
+    border-radius: 15px;
+    padding: 5px; 
+}
+
+.description_fav {
+    font-size: 25px;
+    color: #eae9e4;
+}
+
+/*PAGE INGREDIENT*/
+.ingredient_all {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /*padding-left: 20px;
+    padding-right: 20px;*/
+    padding: 20px;
+    text-align: center;
+
+    /*display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;*/
+}
+
+.ingredient_1 {
+    width: 300px;
+}
+
+.description_ingredient {
+    font-size: 25px;
+    color: #eae9e4;
+}
+
+.img_ingredient {
+    border: 1px solid #eae9e4;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+/*RECIPES PAGE*/
+
+
+
+/*FOOTER*/
+
+.social_links {
+    display: flex;
+    justify-content: center;
+    color: #20af94;
+    font-size: 25px;
+}
+

@@ -1,0 +1,77 @@
+id;name;type;description;image_links
+1;Bird Egg;Egg;An incredibly versatile ingredient that can supply all of your daily protein needs.;/images/ingredients/egg/Item_Bird_Egg_8_11zon.png
+2;Crab;Fish;A shelled creature that lives near the ocean. Its flaky, delicious meat can easily be made into tasty dishes.;/images/ingredients/fish/Item_Crab_15_11zon.png
+3;Fish;Fish;A fresh fillet of fish. Handled properly, it can make a rich dish.;/images/ingredients/fish/Item_Fish_20_11zon.png
+4;Shrimp Meat;Fish;A whole piece of deep sea shrimp meat, full of nutrients and bursting with delicious flavor.;/images/ingredients/fish/Item_Shrimp_Meat_58_11zon.png
+5;Unagi Meat;Fish;The fresh meat of an Unagi. If handled properly, it can be used to make fresh, lovely food.;/images/ingredients/fish/Item_Unagi_Meat_69_11zon.png
+6;Ajilenakh Nut;Fruit;A fruit that grows on evergreen trees within desert oases. The flesh under the tough skin is thick, sweet, and delicious, making it an important food source amongst the desert peoples.;/images/ingredients/fruits/Item_Ajilenakh_Nut_1_11zon.png
+7;Amakumo Fruit;Fruit;The fruit of the Amakumo Grass, which grows on Seirai Island. You can hear it crackling with a tiny current if you hold it up to your ear.;/images/ingredients/fruits/Item_Amakumo_Fruit_3_11zon.png
+8;Apple;Fruit;Crisp and fragrant. Delicious raw or made into wine.;/images/ingredients/fruits/Item_Apple_4_11zon.png
+9;Berry;Fruit;Small, brightly-colored fruit. They can be found everywhere, and the taste of them wipes the fatigue of a long journey away.;/images/ingredients/fruits/Item_Berry_7_11zon.png
+10;Harra Fruit;Fruit;Growing in the hot humid rainforest, it is a fruit with a special spicy aroma. When ground to powder, spices can be made from it. It is the most valued spice plant in Sumeru.;/images/ingredients/fruits/Item_Harra_Fruit_27_11zon.png
+11;Henna Berry;Fruit;A fruit that grows even in the most hostile of desert environments. Its vibrant crimson fruits are made even more lovely against a backdrop of yellow sand.;/images/ingredients/fruits/Item_Henna_Berry_28_11zon.png
+12;Lavender Melon;Fruit;A brightly-colored fruit. The flesh within transforms into food with a unique mouthfeel when cooked.;/images/ingredients/fruits/Item_Lavender_Melon_33_11zon.png
+13;Pinecone;Fruit;Filled with oil-rich seeds. Certainly won't be growing into a tree from inside a squirrel's stomach.;/images/ingredients/fruits/Item_Pinecone_45_11zon.png
+14;Valberry;Fruit;A plump and translucent berry that has a fragrant smell and a sweet, refreshing taste. In the past, the storm watchers' only solace was the sweetness of this fruit and hope for the city's peace.;/images/ingredients/fruits/Item_Valberry_70_11zon.png
+15;Wolfhook;Fruit;A berry with thorns that often gets attached to a wolf's pelt. When you look at it, you can almost hear the echoing cries of the wolves in the woods.;/images/ingredients/fruits/Item_Wolfhook_74_11zon.png
+16;Zaytun Peach;Fruit;The fruit of a forest shrub. Its flesh is firm and sweet. It is said to have a calming effect on the mind.;/images/ingredients/fruits/Item_Zaytun_Peach_75_11zon.png
+17;Sunsettia;Fruit;A plump fruit, beautiful like the sunset, that is abundant across all of Teyvat. It has a curious, sweet aroma and is able to energize an individual.;/images/ingredients/fruits/Sunsettia_76_11zon.png
+18;Dandelion Seed;Seed;A tiny seed that rides on the wind. Even without its feathered wings, it still holds the hope from afar within.;/images/ingredients/graines/Item_Almond_2_11zon.png
+19;Almond;Seed;A seed with a peculiar fragrance that gives food a refreshing taste.;/images/ingredients/graines/Item_Dandelion_Seed_18_11zon.png
+20;Bacon;Meat;"Smoked strips of pork. Crispy with a bit of fat, but not too greasy.
+Mmmmm... bacon.";/images/ingredients/meats/Item_Bacon_5_11zon.png
+21;Fowl;Meat;A fresh chunk of fowl. Handled properly, it can make a hearty meal.;/images/ingredients/meats/Item_Fowl_23_11zon.png
+22;Ham;Meat;Smoked leg meat. Even the thinnest slice is packed full of flavor.;/images/ingredients/meats/Item_Ham_26_11zon.png
+23;Raw Meat;Meat;A fresh chunk of meat. Handled properly, it can be used to make delicious food.;/images/ingredients/meats/Item_Raw_Meat_50_11zon.png
+24;Sausage;Meat;Finely minced meat wrapped in a skin. A staple of every meat lover's daily diet.;/images/ingredients/meats/Item_Sausage_55_11zon.png
+25;Smoked Fowl;Meat;Fowl that has been smoked. The firmness of the meat gives new texture to dishes.;/images/ingredients/meats/Item_Smoked_Fowl_61_11zon.png
+26;Butter;Others;An extract from milk. With the appropriate application, it can bring rich aromas to even the most basic ingredients.;/images/ingredients/products/Item_Butter_9_11zon.png
+27;Cheese;Others;Made from fermented milk. High in energy, it's used in a wide range of dishes.;/images/ingredients/products/Item_Cheese_14_11zon.png
+28;Crab Roe;Others;A delicacy specific to female crabs. A rare and prized ingredient that isn't quite to everyone's taste.;/images/ingredients/products/Item_Crab_Roe_16_11zon.png
+29;Cream;Others;A dairy product made from milk. An essential ingredient in making pastries.;/images/ingredients/products/Item_Cream_17_11zon.png
+30;Flour;Others;A powder ground from wheat. No matter what it goes into it brings a sense of satisfaction to the diner.;/images/ingredients/products/Item_Flour_21_11zon.png
+31;Glabrous Beans;Others;A common legume in Teyvat with a light aroma. It can be prepared in a variety of ways, and is thus widely accepted by people all over the world.;/images/ingredients/products/Item_Glabrous_Beans_24_11zon.png
+32;Jam;Others;A gelatinous substance made from fruit and sugar. Even a little bit can easily wake up tired taste buds.;/images/ingredients/products/Item_Jam_30_11zon.png
+33;Milk;Others;Sweet and fragrant cow's milk. Don't waste a single drop, not even that one rolling down your chin.;/images/ingredients/products/Item_Milk_36_11zon.png
+34;Pepper;Others;Peppery. Cuts through oily flavors and excites the taste buds. Goes best on meat.;/images/ingredients/products/Item_Pepper_43_11zon.png
+35;Rice;Others;"A grain crop commonly found in Teyvat. People of all walks of life enjoy its distinct grainy texture. As the saying goes, ""The same kind of rice can feed one hundred kinds of people.""";/images/ingredients/products/Item_Rice_51_11zon.png
+36;Salt;Others;A savory seasoning. A precise but adequate amount will elevate the quality of the cuisine.;/images/ingredients/products/Item_Salt_54_11zon.png
+37;Spice;Others;"A seasoning with varied flavors. It is made from dried Harra Fruits and can enrich the taste of a dish. Therefore, Sumeru locals say, ""Spice goes well with anything.""";/images/ingredients/products/Item_Spice_62_11zon.png
+38;Sugar;Others;A seasoning derived from Sweet Flowers. Has the power to give both energy and happiness.;/images/ingredients/products/Item_Sugar_64_11zon.png
+39;Tofu;Others;Freshly made bean product that has a silky-smooth tender texture.;/images/ingredients/products/Item_Tofu_67_11zon.png
+180;Bamboo Shoot;Vegetables;A fresh young bamboo shoot, straight out of the ground. It is a delicious cooking ingredient with an exotic aroma, found exclusively in bamboo-growing regions.;/images/ingredients/vegetables/Item_Bamboo_Shoot_6_11zon.png
+181;Tomato;Vegetables;"A bright red ingredient that gives a tangy kick. Yes, the ""fruit or vegetable"" debate is still going...";/images/ingredients/vegetables/Item_Tomato_68_11zon.png
+182;Cabbage;Vegetables;A layered, leafy vegetable. Said to have originally been an ornamental plant, it certainly looks great in the pot.;/images/ingredients/vegetables/Item_Cabbage_10_11zon.png
+183;Carrot;Vegetables;A healthy and nutritious vegetable that is crunchy and sweet to the taste. Easy to grow and harvest.;/images/ingredients/vegetables/Item_Carrot_12_11zon.png
+184;Lotus Head;Vegetables;An aquatic plant native to Liyue that grows and blooms in pairs. One is fragrant, and the other bitter. It's said to make a good herbal medicine.;/images/ingredients/vegetables/Item_Lotus_Head_34_11zon.png
+185;Onion;Vegetables;A spherical vegetable. As vengeance for cutting it, it will make you cry, no matter how brave you are.;/images/ingredients/vegetables/Item_Onion_41_11zon.png
+186;Potato;Vegetables;A chunky vegetable. A gift from the earth that you never tire of with its multitude of cooking methods.;/images/ingredients/vegetables/Item_Potato_46_11zon.png
+187;Radish;Vegetables;Rich in fiber and nutrients. Easy to grow and harvest.;/images/ingredients/vegetables/Item_Radish_49_11zon.png
+188;Calla Lily;Plants;A flower that grows near water sources. When cooked, the petals have a chunky texture, yet are sweet and a little bitter.;/images/ingredients/plantes/Item_Calla_Lily_11_11zon.png
+189;Cecilia;Plants;A beautiful flower with a name that suits its appearance. It only grows where harsh winds blow, and is just as intangible as the true heart of an unbound soul.;/images/ingredients/plantes/Item_Cecilia_13_11zon.png
+190;Dendrobium;Plants;It was once thought extinct in the Inazuman archipelago, only to re-emerge now upon the battlefields. It is said that it blooms most enchantingly where much blood was spilled.;/images/ingredients/plantes/Item_Dendrobium_19_11zon.png
+191;Fluorescent Fungus;Plants;A mushroom that glows like a night-light. Some curious power lies hidden within it.;/images/ingredients/plantes/Item_Fluorescent_Fungus_22_11zon.png
+192;Glaze Lily;Plants;An extremely ancient flower that was said to be commonly seen in Liyue. It transforms the memories of the land into its fragrance during florescence.;/images/ingredients/plantes/Item_Glaze_Lily_25_11zon.png
+193;Horsetail;Plants;A purple plant that sometimes grows amidst Silvergrass but grows taller, straighter, and plumper — like an aristocrat among the paupers.;/images/ingredients/plantes/Item_Horsetail_29_11zon.png
+194;Jueyun Chili;Plants;"A spicy plant native to Liyue.
+Merely smelling it makes one hot and thirsty.";/images/ingredients/plantes/Item_Jueyun_Chili_31_11zon.png
+195;Kalpalata Lotus;Plants;Flowers from vines that grow on cliff sides. It is called a lotus only because it has a similar appearance to one. Aside from that, it bears no other similar properties to the lotus.;/images/ingredients/plantes/Item_Kalpalata_Lotus_32_11zon.png
+196;Matsutake;Plants;A rare fungus that generally grows on or near pine trees. Its delicate aroma gives away its location.;/images/ingredients/plantes/Item_Matsutake_35_11zon.png
+197;Mint;Plants;A refreshingly cool ingredient. The cool, fresh flavor can cut through the heat of many dishes.;/images/ingredients/plantes/Item_Mint_37_11zon.png
+198;Mushroom;Plants;Hardy common fungi. Can grow anywhere with the right amount of shade and moisture.;/images/ingredients/plantes/Item_Mushroom_38_11zon.png
+199;Naku Weed;Plants;Even on windless days, this plant will tremble lightly amid the cries of thunder. The part of it that resembles petals are in fact extensions of the leaves meant to protect the fragile flower.;/images/ingredients/plantes/Item_Naku_Weed_39_11zon.png
+200;Nilotpala Lotus;Plants;Growing in the forest wetlands, these plays only bloom at night with flowers as bright as the moon;/images/ingredients/plantes/Item_Nilotpala_Lotus_40_11zon.png
+201;Padisarah;Plants;A holy and noble plant. The conditions for growth in its environment are very demanding. The flower buds can be processed to make valuable spices.;/images/ingredients/plantes/Item_Padisarah_42_11zon.png
+202;Philanemo Mushroom;Plants;A fungus that grows in the warm caress of the wind. It is as everlasting as the wind, nourishing life.;/images/ingredients/plantes/Item_Philanemo_Mushroom_44_11zon.png
+203;Qingxin;Plants;A translucent white flower that only grows on the highest stone peaks. It eschews the warmth and moisture of the plains to gaze out afar from the solitary mountaintops.;/images/ingredients/plantes/Item_Qingxin_48_11zon.png
+204;Rukkhashava Mushroom;Plants;A fungus that grows in layers upon layers, like a sea of clouds, and which mostly grows on trees deep in the rainforest.;/images/ingredients/plantes/Item_Rukkhashava_Mushrooms_52_11zon.png
+205;Sakura Bloom;Plants;Blossoms from the Sacred Sakura at the Grand Narukami Shrine, filled with a fondness for Inazuma.;/images/ingredients/plantes/Item_Sakura_Bloom_53_11zon.png
+206;Sea Ganoderma;Plants;A plant species that only grows in certain regions and islands of the ocean. Though it looks like a fungus of some sort, it actually comes from a substance secreted by certain soft-bodied organisms.;/images/ingredients/plantes/Item_Sea_Ganoderma_56_11zon.png
+207;Seagrass;Plants;A plant that grows in shallow seas. It adds a unique flavor to dishes.;/images/ingredients/plantes/Item_Seagrass_57_11zon.png
+208;Silk Flower;Plants;A crimson flower that blooms like the rainbow clouds in Liyue. It can be made into silky-smooth fabric.;/images/ingredients/plantes/Item_Silk_Flower_59_11zon.png
+209;Small Lamp Grass;Plants;A wild grass that emits light at night. Used in cooking to enhance other flavors.;/images/ingredients/plantes/Item_Small_Lamp_Grass_60_11zon.png
+210;Sumeru Rose;Plants;Bright and beautiful, these pure purple flowers give off a pleasant fragrance that will give any passerby pause.;/images/ingredients/plantes/Item_Sumeru_Rose_65_11zon.png
+211;Sweet Flower;Plants;Particularly fragrant flowers. They can be found easily, even in the dark. Just follow the scent.;/images/ingredients/plantes/Item_Sweet_Flower_66_11zon.png
+212;Violetgrass;Plants;A small flower with strong vitality. It is said that its downward-blooming flower keeps its fragrance from dissipating.;/images/ingredients/plantes/Item_Violetgrass_71_11zon.png
+213;Wheat;Plants;Golden sun-kissed tassels. Needs to be ground down to flour for further use.;/images/ingredients/plantes/Item_Wheat_72_11zon.png
+214;Windwheel Aster;Plants;"A plant that adores the wind. To the proud children of the wind, or the citizens of Mondstadt, the Windwheel Asters are ""the visible winds.""";/images/ingredients/plantes/Item_Windwheel_Aster_73_11zon.png
