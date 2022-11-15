@@ -1,0 +1,210 @@
+ Le volume dans le lecteur C s'appelle Windows
+ Le num‚ro de s‚rie du volume est 2298-5C87
+
+ R‚pertoire de C:/MAMP/htdocs/GenshinImpactRecipes/images/recipes
+
+15/11/2022  15:13    <DIR>          .
+15/11/2022  15:13    <DIR>          ..
+15/11/2022  10:51            76ÿ076 A Buoyant Breeze_1_11zon.png
+15/11/2022  10:51            77ÿ020 A Prize Catch_2_11zon.png
+15/11/2022  10:51            81ÿ377 A Stunning Stratagem_3_11zon.png
+15/11/2022  10:51            74ÿ918 Aaru Mixed Rice_4_11zon.png
+15/11/2022  10:51            75ÿ501 Adeptus' Temptation_5_11zon.png
+15/11/2022  10:51            52ÿ223 Adventurer's Breakfast Sandwich_6_11zon.png
+15/11/2022  10:51            71ÿ833 All-Delicacy Parcels_7_11zon.png
+15/11/2022  10:51            71ÿ676 All-Weather Beauty_8_11zon.png
+15/11/2022  10:51            74ÿ923 Almond Tofu_9_11zon.png
+15/11/2022  10:51            41ÿ618 Apple Cider_10_11zon.png
+15/11/2022  10:51            74ÿ086 Baklava_11_11zon.png
+15/11/2022  10:51            71ÿ338 Bamboo Shoot Soup_12_11zon.png
+15/11/2022  10:51            69ÿ782 Barbatos Ratatouille_13_11zon.png
+15/11/2022  10:51            39ÿ446 Berry & Mint Burst_14_11zon.png
+15/11/2022  10:51            59ÿ378 Berry Mizu Manjuu_15_11zon.png
+15/11/2022  10:51            57ÿ271 Bird Egg Sushi_16_11zon.png
+15/11/2022  10:51            71ÿ514 Biryani_17_11zon.png
+15/11/2022  10:51            70ÿ379 Black-Back Perch Stew_18_11zon.png
+15/11/2022  10:51            85ÿ972 Bountiful Year_19_11zon.png
+15/11/2022  10:51            73ÿ143 Braised Meat_20_11zon.png
+15/11/2022  10:51            69ÿ755 Butter Chicken_21_11zon.png
+
+
+15/11/2022  10:51            75ÿ682 Butter Crab_22_11zon.png
+15/11/2022  10:51            66ÿ736 Calla Lily Seafood Soup_23_11zon.png
+15/11/2022  10:51            72ÿ203 Candied Ajilenakh Nut_24_11zon.png
+15/11/2022  10:51            65ÿ247 Charcoal-Baked Ajilenakh Cake_25_11zon.png
+15/11/2022  10:51            68ÿ586 Chicken Tofu Pudding_26_11zon.png
+15/11/2022  10:51            45ÿ017 Chicken-Mushroom Skewer_27_11zon.png
+15/11/2022  10:51            78ÿ980 Chili-Mince Cornbread Buns_28_11zon.png
+15/11/2022  10:51            70ÿ810 Cloud-Shrouded Jade_29_11zon.png
+15/11/2022  10:51            75ÿ677 Cold Cut Platter_30_11zon.png
+15/11/2022  10:51            74ÿ086 Cold Noodles with Mountain Delicacies_31_11zon.png
+15/11/2022  10:51            73ÿ314 Come and Get It_32_11zon.png
+15/11/2022  10:51            69ÿ259 Crab Roe Kourayaki_33_11zon.png
+15/11/2022  10:51            68ÿ668 Crab Roe Tofu_34_11zon.png
+15/11/2022  10:51            67ÿ437 Crab, Ham & Veggie Bake_35_11zon.png
+15/11/2022  10:51            63ÿ059 Cream Stew_36_11zon.png
+15/11/2022  10:51            74ÿ372 Crispy Potato Shrimp Platter_37_11zon.png
+15/11/2022  10:51            65ÿ421 Crystal Shrimp_38_11zon.png
+15/11/2022  10:51            67ÿ428 Cured Pork Dry Hotpot_39_11zon.png
+15/11/2022  10:51            75ÿ662 Curry Shrimp_40_11zon.png
+15/11/2022  10:51            57ÿ181 Definitely Not Bar Food!_41_11zon.png
+15/11/2022  10:51            85ÿ884 Der Weisheit Letzter Schluss (Life)_42_11zon.png
+15/11/2022  10:51            77ÿ732 Dew-Dipped Shrimp_43_11zon.png
+15/11/2022  10:51            83ÿ270 Die Heilige Sinfonie_44_11zon.png
+15/11/2022  10:51            78ÿ509 Dinner of Judgment_45_11zon.png
+15/11/2022  10:51            63ÿ755 Dizziness-Be-Gone no Jutsu Version 2.0_46_11zon.png
+15/11/2022  10:51            66ÿ856 Dragon Beard Noodles_47_11zon.png
+15/11/2022  10:51            70ÿ944 Dry-Braised Salted Fish_48_11zon.png
+15/11/2022  10:51            80ÿ008 Duel Soul_49_11zon.png
+15/11/2022  10:51            47ÿ604 Egg Roll_50_11zon.png
+15/11/2022  10:51            82ÿ199 Faith Eternal_51_11zon.png
+15/11/2022  10:51            72ÿ975 Fish With Cream Sauce_52_11zon.png
+15/11/2022  10:51            61ÿ242 Fish-Flavored Toast_54_11zon.png
+15/11/2022  10:51            54ÿ306 Fisherman's Toast_53_11zon.png
+15/11/2022  10:51            74ÿ681 Five Pickled Treasures_55_11zon.png
+15/11/2022  10:51            56ÿ856 Flaming Red Bolognese_56_11zon.png
+15/11/2022  10:51            77ÿ833 Flash-Fried Filet_57_11zon.png
+15/11/2022  10:51            77ÿ992 Forest Watcher's Choice_58_11zon.png
+15/11/2022  10:51            63ÿ408 Fragrant Mashed Potatoes_59_11zon.png
+15/11/2022  10:51            45ÿ840 Fried Radish Balls_60_11zon.png
+15/11/2022  10:51            52ÿ958 Fruits of the Festival_61_11zon.png
+15/11/2022  10:51            53ÿ947 Fruity Skewers_62_11zon.png
+15/11/2022  10:51            85ÿ201 Fukuuchi Udon_63_11zon.png
+15/11/2022  10:51            74ÿ443 Fullmoon Egg_64_11zon.png
+15/11/2022  10:51            17ÿ341 Gelee-de-menthe_65_11zon.png
+15/11/2022  10:51            77ÿ065 Ghostly March_66_11zon.png
+15/11/2022  10:51            78ÿ995 Golden Chicken Burger_67_11zon.png
+15/11/2022  10:51            73ÿ791 Golden Crab_68_11zon.png
+15/11/2022  10:51            58ÿ224 Golden Fried Chicken_69_11zon.png
+15/11/2022  10:51            84ÿ016 Golden Shrimp Balls_70_11zon.png
+15/11/2022  10:51            71ÿ572 Goulash_71_11zon.png
+15/11/2022  10:51            54ÿ663 Grilled Tiger Fish_72_11zon.png
+15/11/2022  10:51            55ÿ942 Grilled Unagi Fillet_73_11zon.png
+15/11/2022  10:51            76ÿ505 Halvamazd_74_11zon.png
+15/11/2022  10:51            80ÿ171 Heartstring Noodles_75_11zon.png
+15/11/2022  10:51            70ÿ847 Imported Poultry_76_11zon.png
+15/11/2022  10:51            74ÿ748 Invigorating Kitty Meal_77_11zon.png
+15/11/2022  10:51            82ÿ940 Invigorating Pizza_78_11zon.png
+15/11/2022  10:51            56ÿ922 Item_223_80_11zon.png
+15/11/2022  10:51            51ÿ707 Item_22_79_11zon.png
+15/11/2022  10:51            56ÿ134 Item_My_Way_81_11zon.png
+15/11/2022  10:51            72ÿ749 Item_Taiyaki_82_11zon.png
+15/11/2022  10:51            74ÿ759 Item_Tandoori_Roast_Chicken_83_11zon.png
+15/11/2022  10:51            54ÿ025 Item_Tea_Break_Pancake_84_11zon.png
+15/11/2022  10:51            40ÿ877 Item_Teyvat_Fried_Egg_85_11zon.png
+15/11/2022  10:51            71ÿ025 Item_Tianshu_Meat_86_11zon.png
+15/11/2022  10:51            61ÿ160 Item_Tonkotsu_Ramen_87_11zon.png
+15/11/2022  10:51            64ÿ990 Item_Tri-Flavored_Skewer_89_11zon.png
+15/11/2022  10:51            44ÿ356 Item_Tricolor_Dango_88_11zon.png
+15/11/2022  10:51            66ÿ717 Item_Triple-Layered_Consomm%3F_90_11zon.png
+15/11/2022  10:51            52ÿ817 Item_Tuna_Sushi_91_11zon.png
+15/11/2022  10:51            84ÿ227 Item_Udon_Noodles_92_11zon.png
+15/11/2022  10:51            84ÿ869 Item_Unagi_Chazuke_93_11zon.png
+15/11/2022  10:51            66ÿ844 Item_Universal_Peace_94_11zon.png
+15/11/2022  10:51            70ÿ544 Item_Vegetarian_Abalone_95_11zon.png
+15/11/2022  10:51            73ÿ519 Item_Wakatakeni_96_11zon.png
+15/11/2022  10:51            41ÿ471 Item_Wolfhook_Juice_97_11zon.png
+15/11/2022  10:51            88ÿ905 Item_Zhongyuan_Chop_Suey_98_11zon.png
+15/11/2022  10:51            73ÿ694 Jade Parcels_99_11zon.png
+15/11/2022  10:51            66ÿ319 Jewelry Soup_100_11zon.png
+15/11/2022  10:51            78ÿ577 Jueyun Chili Chicken_101_11zon.png
+15/11/2022  10:51            75ÿ467 Jueyun Guoba_102_11zon.png
+15/11/2022  10:51            74ÿ956 Katsu Sandwich_103_11zon.png
+15/11/2022  10:51            65ÿ485 Konda Cuisine_104_11zon.png
+15/11/2022  10:51            72ÿ697 Lambad Fish Roll_105_11zon.png
+15/11/2022  10:51            93ÿ747 Lantern Rite Special Come and Get It_106_11zon.png
+15/11/2022  10:51            75ÿ493 Lighter-Than-Air Pancake_107_11zon.png
+15/11/2022  15:12                19 LIste.bat
+15/11/2022  15:13                 0 Liste.txt
+15/11/2022  10:51            74ÿ415 Lotus Flower Crisp_108_11zon.png
+15/11/2022  10:51            58ÿ974 Lotus Seed and Bird Egg Soup_109_11zon.png
+15/11/2022  10:51            72ÿ629 Masala Cheese Balls_110_11zon.png
+15/11/2022  10:51            78ÿ687 Matsutake Meat Rolls_111_11zon.png
+15/11/2022  10:51            76ÿ909 Meat Lovers' Mushroom Pizza_112_11zon.png
+15/11/2022  10:51            72ÿ927 Milky Mushroom Crisp Tower_113_11zon.png
+15/11/2022  10:51            50ÿ958 Mint Jelly_114_11zon.png
+15/11/2022  10:51            76ÿ573 Mint Salad_115_11zon.png
+15/11/2022  10:51            60ÿ426 Minty Bean Soup_116_11zon.png
+15/11/2022  10:51            78ÿ960 Minty Meat Rolls_117_11zon.png
+15/11/2022  10:51            70ÿ440 Miso Soup_118_11zon.png
+15/11/2022  10:51            70ÿ555 Mixed Yakisoba_119_11zon.png
+15/11/2022  10:51            53ÿ253 Mondstadt Grilled Fish_120_11zon.png
+15/11/2022  10:51            64ÿ553 Mondstadt Hash Brown_121_11zon.png
+15/11/2022  10:51            75ÿ544 Moon Pie_122_11zon.png
+15/11/2022  10:51            56ÿ522 Mora Meat_123_11zon.png
+15/11/2022  10:51            75ÿ142 More-and-More_124_11zon.png
+15/11/2022  10:51            79ÿ644 Mushroom Hodgepodge_125_11zon.png
+15/11/2022  10:51            70ÿ546 Mushroom Pizza_126_11zon.png
+15/11/2022  10:51            63ÿ002 Mysterious Bolognese_127_11zon.png
+15/11/2022  10:51            75ÿ074 No Tomorrow_128_11zon.png
+15/11/2022  10:51            72ÿ748 Noodles with Mountain Delicacies_129_11zon.png
+15/11/2022  10:51            64ÿ235 Northern Apple Stew_130_11zon.png
+15/11/2022  10:51            77ÿ708 Northern Smoked Chicken_131_11zon.png
+15/11/2022  10:51            73ÿ065 Nutritious Meal_132_11zon.png
+15/11/2022  10:51            72ÿ588 Omelette Rice_133_11zon.png
+15/11/2022  10:51            78ÿ534 Omurice Waltz_134_11zon.png
+15/11/2022  10:51            75ÿ398 Oncidium Tofu_135_11zon.png
+15/11/2022  10:51            54ÿ405 Onigiri_136_11zon.png
+15/11/2022  10:51            66ÿ330 Outrider's Champion Steak!_137_11zon.png
+15/11/2022  10:51            64ÿ179 Padisarah Pudding_138_11zon.png
+15/11/2022  10:51            77ÿ355 Panipuri_139_11zon.png
+15/11/2022  10:51            93ÿ768 Pile Them Up_140_11zon.png
+15/11/2022  10:51            69ÿ359 Pita Pocket_141_11zon.png
+15/11/2022  10:51            44ÿ552 Pop's Teas_142_11zon.png
+15/11/2022  10:51            85ÿ290 Potato Boat_143_11zon.png
+15/11/2022  10:51            66ÿ320 Prosperous Peace_144_11zon.png
+15/11/2022  10:51            72ÿ869 Puppy-Paw Hash Brown_145_11zon.png
+15/11/2022  10:51            58ÿ492 Qiankun Mora Meat_146_11zon.png
+15/11/2022  10:51            80ÿ259 Qingce Stir Fry_147_11zon.png
+15/11/2022  10:51            58ÿ439 Quiet Elegance_148_11zon.png
+15/11/2022  10:51            65ÿ630 Radish and Fish Stew_149_11zon.png
+15/11/2022  10:51            59ÿ975 Radish Veggie Soup_150_11zon.png
+15/11/2022  10:51            48ÿ993 Rainbow Aster_151_11zon.png
+15/11/2022  10:51            65ÿ551 Rice Buns_152_11zon.png
+15/11/2022  10:51            77ÿ666 Rice Cake Soup_153_11zon.png
+15/11/2022  10:51            72ÿ326 Rice Pudding_154_11zon.png
+15/11/2022  10:51            89ÿ346 Rockin' Riffin' Chicken!_155_11zon.png
+15/11/2022  10:51            77ÿ813 Rose Custard_156_11zon.png
+15/11/2022  10:51            52ÿ061 Sakura Mochi_157_11zon.png
+15/11/2022  10:51            64ÿ193 Sakura Shrimp Crackers_158_11zon.png
+15/11/2022  10:51            72ÿ502 Sakura Tempura_159_11zon.png
+15/11/2022  10:51            71ÿ023 Sangayaki_160_11zon.png
+15/11/2022  10:51            85ÿ420 Sashimi Platter_161_11zon.png
+15/11/2022  10:51            61ÿ895 Satiety Gel_162_11zon.png
+15/11/2022  10:51            74ÿ288 Satisfying Salad_163_11zon.png
+15/11/2022  10:51            68ÿ536 Saut‚ed Matsutake_164.png
+15/11/2022  10:51            76ÿ614 Selva Salad_165_11zon.png
+15/11/2022  10:51            73ÿ385 Shawarma Wrap_166_11zon.png
+15/11/2022  10:51            88ÿ409 Show Me the Mora_167_11zon.png
+15/11/2022  10:51            70ÿ087 Slow-Cooked Bamboo Shoot Soup_168_11zon.png
+15/11/2022  10:51            66ÿ307 Soba Noodles_169_11zon.png
+15/11/2022  10:51            56ÿ084 Sparkling Berry Juice_170_11zon.png
+15/11/2022  10:51            72ÿ208 Special Mushroom Pizza_171_11zon.png
+15/11/2022  10:51            68ÿ731 Spicy Stew_172_11zon.png
+15/11/2022  10:51            85ÿ257 Squirrel Fish_173_11zon.png
+15/11/2022  10:51            51ÿ869 Steak_174_11zon.png
+15/11/2022  10:51            73ÿ008 Sticky Honey Roast_175_11zon.png
+15/11/2022  10:51            73ÿ591 Stir-Fried Filet_176_11zon.png
+15/11/2022  10:51            80ÿ126 Stir-Fried Fish Noodles_177_11zon.png
+15/11/2022  10:51            74ÿ965 Stir-Fried Shrimp_178_11zon.png
+15/11/2022  10:51            76ÿ697 Stone Harbor Delicacies_179_11zon.png
+15/11/2022  10:51            73ÿ687 Stormcrest Pie_180_11zon.png
+15/11/2022  10:51            56ÿ889 Summer Festival Fish_181_11zon.png
+15/11/2022  10:51            52ÿ302 Sunset Berry Tea_182_11zon.png
+15/11/2022  10:51            64ÿ694 Sunshine Sprat_77_11zon_183_11zon.png
+15/11/2022  10:51            76ÿ449 Survival Grilled Fish_184_11zon.png
+15/11/2022  10:51            70ÿ694 Sweet Madame_78_11zon_185_11zon.png
+15/11/2022  10:51            62ÿ678 Sweet Shrimp Sushi_79_11zon_186_11zon.png
+15/11/2022  10:51            72ÿ137 Swirling Steps_187_11zon.png
+15/11/2022  10:51            79ÿ697 Tahchin_80_11zon_188_11zon.png
+15/11/2022  10:51            54ÿ038 Teyvat Charred Egg_189_11zon.png
+15/11/2022  10:51            85ÿ105 The Only Truth_190_11zon.png
+15/11/2022  10:51            79ÿ965 Utmost Care_191_11zon.png
+15/11/2022  10:51            86ÿ696 Victorious Legend_192_11zon.png
+15/11/2022  10:51            78ÿ591 Wanmin Restaurant's Boiled Fish_193_11zon.png
+15/11/2022  10:51            82ÿ705 Warmth_194_11zon.png
+15/11/2022  10:51            76ÿ690 Way of the Strong_195_11zon.png
+15/11/2022  10:51            74ÿ708 Woodland Dream_196_11zon.png
+15/11/2022  10:51            83ÿ089 Yearning_197_11zon.png
+             199 fichier(s)       13ÿ681ÿ384 octets
+               2 R‚p(s)  132ÿ764ÿ622ÿ848 octets libres

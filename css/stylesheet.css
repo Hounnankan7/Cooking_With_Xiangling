@@ -1,3 +1,5 @@
+/*GENERAL CSS*/
+
 body {
     background-color: #eae9e4;
     width: 1000px;
@@ -13,8 +15,8 @@ a {
     text-decoration: none;
 }
 
+/*HEADER FILE CSS*/
 
-/*HEADER*/
 .menu_principal {
     display: flex;
     width: 1000px;
@@ -28,32 +30,28 @@ a {
     font-size: 45px;
 }
 
-.menu_principal div nav {
+.menu_principal nav {
     float: right;
     margin-top: 20px;
     font-size: 25px;
     margin-left: 300px;
 }
 
-.menu_principal div nav ul {
+.menu_principal nav ul {
     list-style: none;
     color: white;
 }
 
-.menu_principal div nav ul li {
+.menu_principal nav ul li {
     display: inline-block;
 }
 
-.menu_principal div nav ul li a {
+.menu_principal nav ul li a {
     text-decoration: none;
     text-transform: uppercase;
     font-weight: bold;
     margin-right: 25px;
     color: #20af94;
-}
-
-.title_div {
-
 }
 
 .title {
@@ -64,40 +62,25 @@ a {
     color: #d90619;
 }
 
-.menu_div {
+/*INDEX PAGE*/
 
-}
-
-.img_col {
-    /*width: 120%;
-    height: 120%;*/
-}
-
-/*PRESENTATION ZONE ABOUT*/
-.about {
+.contenu_principal {
     background-color: #243057;
 }
 
-.about_title {
-    background-color: 0;
-    color:#eae9e4;
+.titre_about_div {
+    text-align: center;
 }
 
 .titre_about {
-    width: 900px;
+    background-color: #20af94;
     font-size: 50px;
-    color: #d90619;
-    margin-left: 25px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    padding-top: 30px;
-
-}
-
-.titre_about p {
-    margin-top: 5px;
-    margin-bottom: 5px;
-    margin-right: 25px;
+    color: #eae9e4;
+    width: 900px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .texte_about {
@@ -192,41 +175,83 @@ a {
     color: #eae9e4;
 }
 
-/*PAGE INGREDIENT*/
+/*ALL INGRDIENTS PAGE*/
+
+.titre_ingredient_div {
+    text-align: center;
+}
+
+.titre_ingredient {
+    background-color: #20af94;
+    font-size: 50px;
+    color: #eae9e4;
+    width: 900px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.categories_ingredient {
+    display: flex;
+    margin: 0 auto;
+    color: #20af94;
+    list-style: none;
+    justify-content: center;
+    padding-left: 0px;
+}
+
+.categories_ingredient li {
+    background-color: #eae9e4;
+    color: #20af94;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+    border: 1px solid #20af94; 
+    border-radius: 5px;
+}
+
+.categories_ingredient li a {
+    color: #20af94;
+}
+
 .ingredient_all {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    /*padding-left: 20px;
-    padding-right: 20px;*/
     padding: 20px;
     text-align: center;
-
-    /*display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;*/
 }
 
-.ingredient_1 {
+.ingredient_affichage {
     width: 300px;
 }
 
-.description_ingredient {
-    font-size: 25px;
-    color: #eae9e4;
+.ingredient_affichage a {
+
 }
 
-.img_ingredient {
-    border: 1px solid #eae9e4;
+.ingredient_affichage a img{
+    background-color: #eae9e4;
+    border: 5px solid #20af94;
     border-radius: 15px;
     padding: 5px;
 }
 
-/*RECIPES PAGE*/
+.name_ingredient {
+    font-size: 25px;
+    color: #eae9e4;
+}
+
+/*ALL RECIPES PAGE*/
+
+/*ONE INGRDIENT PAGE*/
+
+/*ONE RECIPE PAGE*/
 
 
-
-/*FOOTER*/
-
+/*FOOTER FILE CSS*/
 .social_links {
     display: flex;
     justify-content: center;
