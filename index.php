@@ -41,16 +41,31 @@
     </div>
 
     <div class="favorite_all">
+        <?php 
+        
+        //--------------------------------- TRAITEMENTS PHP ---------------------------------//
+        $resultat_1 = executeRequete("SELECT id_recipe, name, categorie, description, ingrdients, image_link, price, rate FROM recipes_data WHERE rate = (SELECT MAX(rate) FROM recipes_data)");
+        $resultat_2 = executeRequete("SELECT id, name, type, description, image_links, rate FROM ingredients_data WHERE rate = (SELECT MAX(rate) FROM ingredients_data)");
 
-        <div class="favorite_1">
-            <img class="img_col" src="images/ingredients/fruits/Item_Ajilenakh_Nut_1_11zon.png" alt="">
-            <p class="description_fav">Ajilenakh Nut</p>
-        </div>
+        $fav_ingredient = $resultat_2->fetch_assoc();
+        $fav_recipe = $resultat_1->fetch_assoc();
 
-        <div class="favorite_2">
-            <img class="img_col" src="images/ingredients/fruits/Item_Ajilenakh_Nut_1_11zon.png" alt="">
-            <p class="description_fav">Ajilenakh Nut</p>
-        </div>
+        $contenu .= '<div class="favorite_1" margin-bottom:20px;>';
+            $contenu .= "<img src=\"$fav_ingredient[image_links]\" =\"268\" height=\"268\">";
+            $contenu .= '<p class="description_fav">' . $fav_ingredient['name'] .'</p>';
+            $contenu .= '<div class="" style="color: #eae9e4;">Like ('. $fav_ingredient['rate'] . ')</div>';
+        $contenu .= '</div>';
+
+        $contenu .= '<div class="favorite_2" style="margin-bottom:20px;">';
+            $contenu .= "<img src=\"$fav_recipe[image_link]\" =\"268\" height=\"268\">";
+            $contenu .= '<p class="description_fav">' . $fav_recipe['name'] .'</p>';
+            $contenu .= '<div class="" style="color: #eae9e4;">Like ('. $fav_recipe['rate'] . ')</div>';
+        $contenu .= '</div>';
+
+        //--------------------------------- AFFICHAGE HTML ---------------------------------//
+        echo $contenu;
+        
+        ?>
 
     </div>
 
