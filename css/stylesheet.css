@@ -250,6 +250,18 @@ a {
 
 /*ONE RECIPE PAGE*/
 
+.grande_div {
+    display: flex;
+}
+
+.info_img img {
+    background-color: #eae9e4;
+    border: 5px solid #20af94;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+
 
 /*FOOTER FILE CSS*/
 .social_links {
