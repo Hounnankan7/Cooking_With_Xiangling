@@ -16,5 +16,4 @@
 
 ### Page and System To Be Developped
 
-- Page of each ingredients and recipes
 - Like system
