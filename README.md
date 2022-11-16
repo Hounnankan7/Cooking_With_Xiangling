@@ -6,8 +6,9 @@
 - Homepage 
 <img src="https://github.com/Hounnankan7/Cooking_With_Xiangling/blob/main/CWX_readme/1.PNG">
 
-- All ingredients page
+- All ingredients and recipes pages
 <img src="https://github.com/Hounnankan7/Cooking_With_Xiangling/blob/main/CWX_readme/2.PNG">
+<img src="https://github.com/Hounnankan7/Cooking_With_Xiangling/blob/main/CWX_readme/3.PNG">
 
 ### Page and System To Be Developped
 
