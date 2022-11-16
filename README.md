@@ -10,6 +10,10 @@
 <img src="https://github.com/Hounnankan7/Cooking_With_Xiangling/blob/main/CWX_readme/2.PNG">
 <img src="https://github.com/Hounnankan7/Cooking_With_Xiangling/blob/main/CWX_readme/3.PNG">
 
+- One ingredient and recipe pages
+<img src="https://github.com/Hounnankan7/Cooking_With_Xiangling/blob/main/CWX_readme/4.PNG">
+<img src="https://github.com/Hounnankan7/Cooking_With_Xiangling/blob/main/CWX_readme/5.PNG">
+
 ### Page and System To Be Developped
 
 - Page of each ingredients and recipes
